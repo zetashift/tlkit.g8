@@ -1,4 +1,4 @@
 import cats.effect.*
 
-object $mainclass$ extends IOApp.Simple:
+object $main_class$ extends IOApp.Simple:
   val run = IO.println("Hello, World!")
