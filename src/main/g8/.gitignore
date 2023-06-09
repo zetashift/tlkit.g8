@@ -1,9 +1,3 @@
-target/
-boot/
-lib_managed/
-src_managed/
-project/plugins/project/
-
 # sbt
 target/
 project/plugins/project/
@@ -20,12 +14,15 @@ src_managed/
 # ignore [ce]tags files
 tags
 
-# metals
 .metals/
 .bsp/
 .bloop/
 metals.sbt
 .vscode
+.bsp
+.scala-build
+dest/
+out/
 
 # npm
 node_modules/
