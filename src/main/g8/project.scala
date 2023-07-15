@@ -1,1 +1,1 @@
-//> using dep org.typelevel::toolkit::latest.release
+//> using toolkit typelevel:latest
