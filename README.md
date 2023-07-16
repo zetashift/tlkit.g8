@@ -8,3 +8,8 @@ To use this template run the following command:
 sbt new zetashift/tlkit.g8
 ```
 
+Or if you're running `scala-cli` version above `1.0.2`:
+
+```sh
+scala-cli --power new zetashift/tlkit.g8
+```
