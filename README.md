@@ -1,6 +1,6 @@
 # A Typelevel Toolkit g8 template
 
-A [Giter8](https://www.foundweekends.org/giter8/) template for Typelevel Toolkit!
+A [Giter8](https://www.foundweekends.org/giter8/) template for [Typelevel Toolkit](https://github.com/typelevel/toolkit)!
 
 To use this template run the following command:
 
